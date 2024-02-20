@@ -18,6 +18,8 @@ Nhưng đời đâu là mơ, extension get cookie thì ok, nhưng đẩy về se
 
 Ngồi ngẫm nghĩ tiếp, à đm cái gì trust đc với windows nhỉ, mà mấy đứa văn phòng hay dùng nhất thì chỉ có Work, Excel, kkk. T biết code macro mà =)). Thế là bem thôi, 30p làm cái macro gán vào file excel ngon đét, upload hết profile trình duyệt về server của mình, mà lại éo bị antivirus nó báo gì cả, file thì gửi qua fb, zalo, tele thoải cmn mái, ngon r =)). Đm nhưng mà đời không là mơ, lên bản word, excel 2017 hay 2019 là có cảnh báo phải enable macro lên mới chạy đc :( cái này hơi đần, đéo chứng tỏ mình chuyên nghiệp gì cả, ta lại tìm cách khác, cho ae xem cái hình excel nó cảnh báo 
 
+![](https://github.com/nambean/RoboAds/blob/main/Capture.PNG?raw=true)
+
 Nằm ngẫm nghĩ thêm, thì bao đời nay dính virus hay cái cc gì đa số là toàn do cài mấy cái crack game hay cài phần mềm ltinh, thế có nghĩa application vẫn là chân ái, nhưng mà lại quay về là antivirus nó báo, mình cũng có phải hacker méo đâu mà biết vượt qua ntn, chẳng lẽ bảo ai cài thì tắt antivirus đi như mấy cái crack game à, thế này thì Pig Boss đấm vỡ mõm mình mất, tiền thì cầm tiêu r =)) thế lại ngồi ngẫm nghĩ tiếp ( Chỗ này anh em tư duy thêm nhé, kkk )
 
 Đến đây rồi, thì để av nó không báo thì chỉ có 1 cách là làm thật, mình phải làm 1 phần mềm tử tế, nhưng thế thì nói làm con mie gì, giờ phải làm sao one click one kill ( client click vào file là toạch luôn chứ =)) ), chỗ này thì mình xin phép không giải thích sâu hơn về cách làm, mình chỉ gợi ý cho ae thế thôi, về bản chất ae phải tư duy về chiến lược của mình để phù hợp từng yêu cầu, từng kịch bản của khách hàng hay cá nhân đề ra, okay.
