@@ -1,0 +1,77 @@
+// ================================================================================================
+//     File Name: type.scss
+//     Description: Type pages custom scss
+//     ----------------------------------------------------------------------------------------------
+//     Item Name: Vuexy  - Vuejs, HTML & Laravel Admin Dashboard Template
+//     Author: PIXINVENT
+//     Author URL: http://www.themeforest.net/user/pixinvent
+// ================================================================================================
+
+// text heading color
+.text-body-heading {
+  color: $headings-color;
+  &:hover {
+    color: inherit !important;
+  }
+}
+// text body hover color if have link
+.text-body {
+  &[href]:hover {
+    color: $link-hover-color !important;
+  }
+}
+
+// Font sizes (Custom)
+.fs-11 {
+  font-size: 11px !important;
+}
+
+.fs-12 {
+  font-size: 12px !important;
+}
+
+.fs-13 {
+  font-size: 13px !important;
+}
+
+.fs-14 {
+  font-size: 14px !important;
+}
+
+.fs-15 {
+  font-size: 15px !important;
+}
+
+.fs-16 {
+  font-size: 16px !important;
+}
+
+.fs-17 {
+  font-size: 17px !important;
+}
+
+.fs-18 {
+  font-size: 18px !important;
+}
+
+.fs-19 {
+  font-size: 19px !important;
+}
+
+.fs-20 {
+  font-size: 20px !important;
+}
+
+.fs-22 {
+  font-size: 22px !important;
+}
+
+.fs-24 {
+  font-size: 24px !important;
+}
+
+// text utilies
+.text-unline-dashed {
+  border-bottom: $gray-400 1px dashed !important;
+  padding-bottom: 1px;
+}
