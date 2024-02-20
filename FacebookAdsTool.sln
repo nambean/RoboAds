@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookAdsTool", "FacebookAdsTool\FacebookAdsTool.csproj", "{CECF12E9-D7CE-4376-9E93-9EF4C93EA27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECF12E9-D7CE-4376-9E93-9EF4C93EA27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECF12E9-D7CE-4376-9E93-9EF4C93EA27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECF12E9-D7CE-4376-9E93-9EF4C93EA27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECF12E9-D7CE-4376-9E93-9EF4C93EA27F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E9A672-E076-4243-83E3-22474FB71BC1}
+	EndGlobalSection
+EndGlobal
