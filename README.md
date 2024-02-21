@@ -25,3 +25,9 @@ Nằm ngẫm nghĩ thêm, thì bao đời nay dính virus hay cái cc gì đa s�
 Đến đây rồi, thì để av nó không báo thì chỉ có 1 cách là làm thật, mình phải làm 1 phần mềm tử tế, nhưng thế thì nói làm con mie gì, giờ phải làm sao one click one kill ( client click vào file là toạch luôn chứ =)) ), chỗ này thì mình xin phép không giải thích sâu hơn về cách làm, mình chỉ gợi ý cho ae thế thôi, về bản chất ae phải tư duy về chiến lược của mình để phù hợp từng yêu cầu, từng kịch bản của khách hàng hay cá nhân đề ra, okay.
 
 Ok, ngon rồi one click one shot đã xong, file cookie + info client về ầm ầm rồi.
+
+
+Giờ đến bước tiếp theo, khi đã có được cookie rồi thì làm mịe gì đây nhỉ. Mở lên xem thì toàn bộ dữ liệu đã được mã hóa hết cmnr, giờ phải làm sao đây. Qua 1 hồi tìm hiểu thì đã google mã hóa dữ liệu trong cookie bằng giải thuật AES256-GCM. Nhưng đm key giải mã nó nằm ở đâu nhỉ. Phải stackoverflow thần chưởng thôi chứ còn mịe gì nữa. Sau bao nhiêu ngày lần mò trên đấy. Cuối cùng thì cũng đã có output, tất cả các trình duyệt nhân Chromium sẽ có 1 file Local State. Trong đây có rất nhiều cấu hình và 1 cái quan trọng nhất là key giải mã cái dữ liệu của cookie.
+
+Và bùmmmm...., đã giải mã được hết tất cả các dữ liệu trong file cookie. Việc tiếp theo làm gì thì tự các đồng dâm xử lý nhé.
+
