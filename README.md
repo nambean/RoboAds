@@ -31,3 +31,5 @@ Giờ đến bước tiếp theo, khi đã có được cookie rồi thì làm m
 
 Và bùmmmm...., đã giải mã được hết tất cả các dữ liệu trong file cookie. Việc tiếp theo làm gì thì tự các đồng dâm xử lý nhé.
 
+=> Việc này ok với tất cả trình duyệt sử dụng nhân chromium nhé
+
