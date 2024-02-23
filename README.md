@@ -31,6 +31,8 @@ Giờ đến bước tiếp theo, khi đã có được cookie rồi thì làm m
 
 Và bùmmmm...., đã giải mã được hết tất cả các dữ liệu trong file cookie. Việc tiếp theo làm gì thì tự các đồng dâm xử lý nhé.
 
+![](https://github.com/nambean/RoboAds/blob/main/z5185671019977_f5f29bec9dcccf6eaf0c69ae93a0d793.jpg?raw=true)
+
 => Việc này ok với tất cả trình duyệt sử dụng nhân chromium nhé
 
 Tiếp tục sẽ đến phần Application ( phần này liên quan đến auto thao tác, đa luồng,selenium, quản lý multi profile với trình duyệt.... ), có time mình sẽ typing tiếp nhé
