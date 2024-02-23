@@ -33,3 +33,4 @@ Và bùmmmm...., đã giải mã được hết tất cả các dữ liệu tron
 
 => Việc này ok với tất cả trình duyệt sử dụng nhân chromium nhé
 
+Tiếp tục sẽ đến phần Application ( phần này liên quan đến auto thao tác, đa luồng.... ), có time mình sẽ typing tiếp nhé
